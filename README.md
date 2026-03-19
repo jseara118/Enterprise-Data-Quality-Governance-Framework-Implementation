@@ -44,9 +44,9 @@ data-quality-governance-demo/
 │   └── notebooks/
 │
 ├── data/
-│   └── sample_data.csv  (optional)
+│   └── sample_data.csv  (not yet pusblished)
 │
-└── demo/
+└── demo/ (under work)
     ├── screenshots/
     └── powerbi/
 ```
