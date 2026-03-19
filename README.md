@@ -118,6 +118,18 @@ It reflects real-world scenarios where data reliability must be enforced across 
 
 ---
 
+## 🏗️ Architecture Overview
+
+The solution follows a layered data architecture:
+
+- **Raw Layer:** Ingested data with quality issues  
+- **Staging Layer:** Data cleaning and standardization  
+- **Curated Layer:** Business-ready datasets  
+
+Data Quality validations are applied across all layers to ensure reliability.
+
+---
+
 ## 💬 Author
 
 Jose Andres Chavarría Araya  
